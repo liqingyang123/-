@@ -24,7 +24,7 @@
     
     _navigationController = [[UINavigationController alloc] initWithRootViewController:[[ViewController alloc]init]];
     
-    // 隐藏导航栏 123
+    // 隐藏导航栏 123 456
     [_navigationController setNavigationBarHidden:YES];
     [_window setRootViewController:_navigationController];
     
