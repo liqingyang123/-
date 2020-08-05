@@ -15,7 +15,7 @@
 
 @implementation AppDelegate
 
-
+// ldd
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     
     _window = [[UIWindow alloc] initWithFrame:[UIScreen mainScreen].bounds];
