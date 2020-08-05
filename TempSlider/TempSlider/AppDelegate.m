@@ -31,7 +31,7 @@
     // dev_two
 
     [_navigationController setNavigationBarHidden:YES];
-    [_window setRootViewController:_navigationController];
+    [_window setRootViewController:_navigationController];// 李青阳
     
     return YES;
 }
