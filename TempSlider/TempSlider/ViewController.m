@@ -16,7 +16,11 @@
 @end
 
 @implementation ViewController
+
 // 李青阳
+
+// 李明艺
+
 - (void)viewDidLoad {
     [super viewDidLoad];
     CGFloat tempVwidth = kFullScreen.size.width-2*kHeight(15);
@@ -30,6 +34,6 @@
         [tempV addSubview:csliderScale];
     }
 }
-
+// 李青阳
 
 @end
