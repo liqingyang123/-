@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-
+// 哈哈哈 - master
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
 
 @property (strong, nonatomic) UIWindow *window;
@@ -15,4 +15,4 @@
 @property (strong, nonatomic)UINavigationController *navigationController;
 
 @end
-
+// 啦啦啦 - master
