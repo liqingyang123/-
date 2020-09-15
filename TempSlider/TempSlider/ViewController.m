@@ -16,7 +16,7 @@
 @end
 
 @implementation ViewController
-
+// 李青阳
 - (void)viewDidLoad {
     [super viewDidLoad];
     CGFloat tempVwidth = kFullScreen.size.width-2*kHeight(15);
